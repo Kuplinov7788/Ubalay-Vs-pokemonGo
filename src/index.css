@@ -1,14 +1,1 @@
-.emir {
-    background-color: black;
-    padding: 3px;
-    color: white;
-    width: fit-content;
-    font-size: 30px;
-    font-family: sans-serif;
-}
-
-.emir span {
-    background-color: orange;
-    color: black;
-    font-size: 30px;
-}
+@import "tailwindcss";

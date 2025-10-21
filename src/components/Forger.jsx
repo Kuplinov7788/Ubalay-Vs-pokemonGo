@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
 const Forger = () => {
-    return (
-        <div>
+  return (
+    <div>
+      <p className="emir">
+        Emir <span>HUB</span>
+      </p>
+    </div>
+  );
+};
 
-            <p className='emir'>Emir <span>HUB</span></p>
-
-        </div>
-    )
-}
-
-export default Forger
+export default Forger;

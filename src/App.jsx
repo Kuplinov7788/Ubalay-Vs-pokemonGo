@@ -1,14 +1,13 @@
-import React from 'react'
-
+import React from "react";
+import Heeader from "./components/Heeader";
+import Forger from './components/Forger'
 const App = () => {
   return (
     <>
-
-      <p>EmirHubbb</p>
-      
-
+      <Heeader />
+      <Forger />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;

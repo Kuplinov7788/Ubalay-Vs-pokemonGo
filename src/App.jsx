@@ -1,16 +1,13 @@
-import React from 'react'
-import Heeader from './components/Heeader'
-import Ubaydulloh from './components/Ubaydulloh'
-import Sokinma from './components/Sokinma'
-
+import React from "react";
+import Heeader from "./components/Heeader";
+import Ubay from "./components/Ubay";
 const App = () => {
   return (
-    <div>
+    <>
       <Heeader />
-      <Ubaydulloh />
-      <Sokinma />
-    </div>
-  )
-}
+      <Ubay />
+    </>
+  );
+};
 
-export default App
+export default App;

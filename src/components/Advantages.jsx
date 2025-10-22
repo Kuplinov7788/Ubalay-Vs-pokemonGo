@@ -43,6 +43,7 @@ const Advantages = () => {
       </section>
 
       <img className='w-[100%] object-cover' src={banner} alt="" />
+      
 
 
     </div>

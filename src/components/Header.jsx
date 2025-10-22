@@ -8,7 +8,7 @@ const Header = () => {
             <header>
                 <div className="container max-w-[100%] w-[95%] mx-auto">
 
-                    <div className="header-wrapper flex gap-[400px] items-center pt-[20px]">
+                    <div className="header-wrapper flex gap-[28%] items-center pt-[20px]">
 
                         <ul className='flex gap-[20px] items-center'>
                             <li><a href="">Wooden Furniture</a></li>

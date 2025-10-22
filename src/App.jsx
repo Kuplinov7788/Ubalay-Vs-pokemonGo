@@ -1,11 +1,13 @@
 import React from "react";
+import Header from "./components/Header";
+import DiscoverNow from "./components/DiscoverNow";
 
 const App = () => {
   return (
     <>
-      <header>
-        <h1 className="bg-red-300">he</h1>
-      </header>
+
+      <Header />
+      <DiscoverNow />
     </>
   );
 };

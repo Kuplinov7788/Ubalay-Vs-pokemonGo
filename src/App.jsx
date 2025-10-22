@@ -6,6 +6,8 @@ import Cloe from "./components/Cloe";
 import Pelican from "./components/Pelican";
 import SwiperSect from "./components/SwiperSect";
 import CardsSect from "./components/CardsSect";
+import LogosComp from "./components/LogosComp";
+import Footer from "./components/Footer";
 
 
 const App = () => {
@@ -19,6 +21,8 @@ const App = () => {
       <Pelican />
       <SwiperSect />
       <CardsSect />
+      <LogosComp />
+      <Footer />
     </>
   );
 };

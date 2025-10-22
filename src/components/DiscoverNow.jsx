@@ -14,7 +14,7 @@ const DiscoverNow = () => {
           Furniture designed to live in harmony, creating distinctive and
           timeless spaces
         </p>
-        <button className="border-[2px] border-white text-white text-[20px] font-cardo  py-[8px] px-[40px] mt-[30px] hover:bg-[white] hover:text-black transition-all ">
+        <button className="border-[2px] border-white text-white text-[20px] font-cardo  py-[8px] px-[40px] mt-[30px] hover:bg-[white] hover:text-black transition-all">
           Discover now
         </button>
       </section>

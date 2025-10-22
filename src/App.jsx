@@ -4,7 +4,7 @@ const App = () => {
   return (
     <>
       <header>
-        <h1>he</h1>
+        <h1 className="bg-red-300">he</h1>
       </header>
     </>
   );

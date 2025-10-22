@@ -23,6 +23,7 @@ const Cloe = () => {
 
                     </div>
 
+
                     
 
                     <div className="main-right">

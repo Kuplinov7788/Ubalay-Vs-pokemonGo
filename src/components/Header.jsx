@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "../assets/IMAGE (10).png";
-
 const Header = () => {
   return (
     <div>
@@ -18,7 +17,6 @@ const Header = () => {
                 <a href="">Stories</a>
               </li>
             </ul>
-
             <img src={logo} alt="" />
           </div>
         </div>

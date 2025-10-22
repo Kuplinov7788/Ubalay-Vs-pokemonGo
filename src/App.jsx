@@ -5,11 +5,9 @@ import Advantages from "./components/Advantages";
 import Cloe from "./components/Cloe";
 import Pelican from "./components/Pelican";
 
-
 const App = () => {
   return (
     <>
-
       <Header />
       <DiscoverNow />
       <Advantages />

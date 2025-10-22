@@ -4,7 +4,11 @@ import image2 from "../assets/IMAGE.png";
 import image3 from "../assets/IMAGE-3.png";
 import image4 from "../assets/IMAGE-1.png";
 import banner from "../assets/banner.png";
+import "swiper/css";
 
+import "swiper/css/navigation";
+
+import { Pagination, Navigation, Autoplay } from "swiper/modules";
 const Advantages = () => {
   return (
     <div>
@@ -43,7 +47,7 @@ const Advantages = () => {
           </div>
         </div>
       </section>
-      <img className='w-[100%] object-cover' src={banner} alt="" />
+      <img className="w-[100%] object-cover" src={banner} alt="" />
     </div>
   );
 };

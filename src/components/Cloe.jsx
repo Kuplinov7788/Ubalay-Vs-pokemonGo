@@ -22,6 +22,7 @@ const Cloe = () => {
                         <button className='bg-transparent border-none text-[17px] text-black underline cursor-pointer' type='button'>Shop now</button>
 
                     </div>
+
                     
 
                     <div className="main-right">

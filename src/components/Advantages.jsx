@@ -13,28 +13,27 @@ const Advantages = () => {
   return (
     <div>
       <section>
-        <div className="max-w-[100%] w-[95%] mx-auto">
+        <div className=" w-[95%] mx-auto">
           <div className="main-wrapper-2 flex items-center justify-between py-[50px]">
-            <div className="flex items-center gap-[22px] p-[20px]">
+            <div className="flex items-center gap-[22px] p-5">
               <img src={image1} alt="" />
               <p className="font-sans font-medium text-[15px]">Free Shipping</p>
             </div>
 
-            <div className="flex items-center gap-[22px] p-[20px]">
+            <div className="flex items-center gap-[22px] p-5">
               <img src={image2} alt="" />
               <p className="font-sans font-medium text-[15px]">
                 Awarded Product Design
               </p>
             </div>
-
-            <div className="flex items-center gap-[22px] p-[20px]">
+            <div className="flex items-center gap-[22px] p-5">
               <img src={image3} alt="" />
               <p className="font-sans font-medium text-[15px]">
                 Ecofriendly Approach
               </p>
             </div>
 
-            <div className="flex items-center gap-[22px] p-[20px]">
+            <div className="flex items-center gap-[22px] p-5">
               <img src={image4} alt="" />
               <p className="font-sans font-medium text-[15px]">
                 Crafted in Spain

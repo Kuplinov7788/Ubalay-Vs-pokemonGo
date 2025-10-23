@@ -4,6 +4,7 @@ import footprintIMG from "../assets/yMnHKp.tif.svg";
 import madeIMG from "../assets/Frame-1.svg";
 import woodIMG from "../assets/Frame-2.svg";
 
+
 const CardsSect = () => {
   return (
     <div>

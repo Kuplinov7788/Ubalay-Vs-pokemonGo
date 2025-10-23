@@ -4,7 +4,6 @@ import left from "../assets/satoru.png";
 const Pelican = () => {
   return (
     <div>
-      {/* jonka */}
       <section>
         <div className="main-wrapper flex gap-[50px] justify-start items-center pt-[150px]">
           <div className="main-right">

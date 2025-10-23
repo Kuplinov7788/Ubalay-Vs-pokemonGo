@@ -8,6 +8,11 @@ import SwiperSect from "./components/SwiperSect";
 import CardsSect from "./components/CardsSect";
 import LogosComp from "./components/LogosComp";
 import Footer from "./components/Footer";
+import Alada from "./components/Alada";
+
+import Alba from "./components/Alba";
+import Batea from "./components/Batea";
+import Inside from "./components/Inside";
 
 const App = () => {
   return (
@@ -17,6 +22,10 @@ const App = () => {
       <Advantages />
       <Cloe />
       <Pelican />
+      <Alada />
+      <Alba />
+      <Batea />
+      <Inside />
       <SwiperSect />
       <CardsSect />
       <LogosComp />
